@@ -1,0 +1,15 @@
+{
+  "name": "source-links",
+  "main": "./lib/atom-source-links",
+  "version": "0.0.0",
+  "description": "Open links to the current file/line",
+  "keywords": [
+  ],
+  "repository": "https://github.com/robballou/atom-source-links",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

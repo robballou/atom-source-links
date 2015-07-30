@@ -1,0 +1,18 @@
+'menu': [
+  {
+    'label': 'Packages'
+    'submenu': [
+      'label': 'Source Links'
+      'submenu': [
+        {
+          'label': 'Open link to this file'
+          'command': 'atom-source-links:open-file'
+        },
+        {
+          'label': 'Open link to this line'
+          'command': 'atom-source-links:open-line'
+        }
+      ]
+    ]
+  }
+]
